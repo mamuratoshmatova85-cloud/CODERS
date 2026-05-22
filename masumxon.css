@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+.a{
+    text-align: center;
+    color: white;
+}
+.p, u{
+    color: white;;
+}
+.g{
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-left: 15px;
+    margin-left: auto;
+    text-decoration: white;
+}
+#o{
+    color: white;
+}
+.l{
+    color: white;
+}
