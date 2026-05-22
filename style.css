@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+}
+.h1 {
+    color: white;
+}
+body {
+    text-align: center;
+}
+ .help{
+    display: inline-block;
+    padding: 20px;
+    margin-left: auto;
+    margin-left: 15px;
+    text-decoration: white;
+    color: white;
+ }
+ .img {
+    text-align: center;
+ }
